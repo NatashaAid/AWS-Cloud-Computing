@@ -2,7 +2,7 @@
 
 ## What is Cloud Computing?
 
-**Cloud computing** is the delivery of IT resources — like **servers, databases, networking, storage, software, and analytics** — over the internet. Instead of owning and maintaining physical hardware, companies rent computing power on demand from providers like **AWS**, **Azure**, or **GCP**.
+**Cloud computing** is the delivery of IT resources like **servers, databases, networking, storage, software, and analytics** over the internet. Instead of owning and maintaining physical hardware, companies rent computing power on demand from providers like **AWS**, **Azure**, or **GCP**.
 
 ## How Do We Know if Something is in the Cloud?
 
