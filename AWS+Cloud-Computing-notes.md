@@ -22,7 +22,7 @@ A system is considered **"in the cloud"** if it's hosted remotely and accessed o
 - **Public Cloud** – Shared services delivered over the internet (e.g. AWS, Azure)  
 - **Private Cloud** – Dedicated infrastructure for one organisation  
 - **Hybrid Cloud** – Mix of public and private for flexibility  
-- **Community Cloud** – Shared by organisations with similar requirements (e.g. government)
+- **Multi Cloud** – Use of multiple public cloud providers
 
 ## Three Main Types of Cloud Services
 
